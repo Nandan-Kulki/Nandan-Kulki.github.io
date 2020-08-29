@@ -1,10 +1,30 @@
 @font-face {
-    font-family: "Computer Modern";
-    src: 
-        url('../fonts/otf/cmunrm.otf') format("opentype"),
-        url('../fonts/eot/cmunrm-webfont.eot'),
-        url('../fonts/eot/cmunrm-webfont.eot?#iefix') format("embedded-opentype"),
-        url('../fonts/svg/cmunrm-webfont.svg') format("svg"),
-        url('../fonts/woff/cmunrm-webfont.woff') format("woff"),
-        url('../fonts/ttf/cmunrm-webfont.ttf') format("truetype");
+font-family: 'CMU Serif Roman';
+font-style: normal;
+font-weight: normal;
+src: url('../fonts/cmunrm.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'CMU Serif Italic';
+font-style: normal;
+font-weight: normal;
+src: url('../fonts/cmunti.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'CMU Serif Bold';
+font-style: normal;
+font-weight: normal;
+src: url('../fonts/cmunbx.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'CMU Serif BoldItalic';
+font-style: normal;
+font-weight: normal;
+src: url('../fonts/cmunbi.woff') format('woff');
 }
