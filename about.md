@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+When I have a question or idea I want to explore further, I write it down either on a page titled "Questions" or a page titled "Cracked Theories", depending on how well-formed or absurd it is.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+When I find an interesting webpage, I bookmark it to come back to later, as one does.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Between "Questions", "Cracked Theories", and my bookmarks, I have over 100 questions and 300 webpages I need to get back to. 
 
-
-[jekyll-organization]: https://github.com/jekyll
+Come on this journey with me! Every week starting Dec. 15th, I'm writing a short article on one of these things in my backlog. It's like a study vlog, except instead of watching me do homework for college you get to read about me doing homework just for fun.
