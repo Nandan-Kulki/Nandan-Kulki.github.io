@@ -12,3 +12,4 @@ Between "Questions", "Cracked Theories", and my bookmarks, I have over 100 quest
 
 Come on this journey with me! Every week starting Dec. 15th, I'm writing a short article on one of these things in my backlog. It's like a study vlog, except instead of watching me do homework for college you get to read about me doing homework just for fun.
 
+Update: After much delay, I finally have a working computer again. Rest assured I've been working on posts the past several weeks! I'm excited to show you the finished articles.
